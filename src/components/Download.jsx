@@ -52,19 +52,19 @@ const Download = () => {
 
                 <Slider {...settings}>
                     <div className="w-[100%] h-[300px] bg-sky-800 text-center text-white">
-                        <h4 className='font-bold pt-[70px] text-[40px]'>Download Bdjobs.com Android App</h4>
+                        <h4 className='font-bold lg:pt-[70px] pt-[30px] lg:text-[40px] text-[30px]'>Download Bdjobs.com Android App</h4>
                         <p className='text-gray-300'> Get relevant trainings and develop yourself as a keen professional to stand out in this competitive job market. </p>
                         <div className="w-[150px] mx-auto mt-[30px]">
                             <h4 className='hover:bg-green-800 text-white bg-green-600  rounded py-[4px] duration-300 px-[14px]'>Visit Jobs</h4></div>
                     </div>
                     <div className="w-[100%] h-[300px] bg-slate-600 text-center text-white">
-                        <h4 className='font-bold pt-[70px] text-[40px]'>Download Bdjobs.com Android App</h4>
+                        <h4 className='font-bold lg:pt-[70px] pt-[30px] lg:text-[40px] text-[30px]'>Download Bdjobs.com Android App</h4>
                         <p className='text-gray-300'> Get relevant trainings and develop yourself as a keen professional to stand out in this competitive job market. </p>
                         <div className="w-[150px] mx-auto mt-[30px]">
                             <h4 className='hover:bg-green-800 text-white bg-green-600  rounded py-[4px] duration-300 px-[14px]'>Visit Jobs</h4></div>
                     </div>
                     <div className="w-[100%] h-[300px] bg-red-600 text-center text-white">
-                        <h4 className='font-bold pt-[70px] text-[40px]'>Download Bdjobs.com Android App</h4>
+                        <h4 className='font-bold lg:pt-[70px] pt-[30px] lg:text-[40px] text-[30px]'>Download Bdjobs.com Android App</h4>
                         <p className='text-gray-300'> Get relevant trainings and develop yourself as a keen professional to stand out in this competitive job market. </p>
                         <div className="w-[150px] mx-auto mt-[30px]">
                             <h4 className='hover:bg-green-800 text-white bg-green-600  rounded py-[4px] duration-300 px-[14px]'>Visit Jobs</h4></div>

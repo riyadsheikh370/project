@@ -53,7 +53,7 @@ const Footer = () => {
                 <FaLinkedinIn/>
                 <FaInstagram/>
         </div>
-        <span className=' text-center font-sans text-[14px] font-[400] py-[3px] text-gray-400  leading-[23px]'>Developer Riyad Sheikh</span>
+        <span className=' text-center font-sans text-[14px] font-[400] py-[3px] text-gray-600  leading-[23px]'>Developer Riyad Sheikh</span>
 
         </div>
     </div>

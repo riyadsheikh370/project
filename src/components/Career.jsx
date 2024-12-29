@@ -13,8 +13,8 @@ const Career = () => {
             <section className='font-style py-[50px]'>
                 <Container>
                     <img className='w-[100%]' src={CareerImg} alt="" />
-                    <div className="flex justify-between rounded">
-                        <div className="w-[48%] bg-gray-300 py-[50px] drop-shadow-2xl ...">
+                    <div className="flex flex-col lg:flex-row lg:justify-between gap-[30px]">
+                        <div className="w-full lg:w-[48%] bg-gray-300 py-[50px] drop-shadow-2xl">
                             <h4 className='text-[25px] text-sky-800 font-bold pl-[30px] uppercase'>Daylong Training</h4>
                             <div className="pt-[30px] px-[30px]">
                                 <div className="flex items-center"><LuSquareKanban className='text-lime-950 text-[50px] pr-2' />Incoterms, H.S Code, Insurance and LC Management in International Business</div>
@@ -27,7 +27,7 @@ const Career = () => {
                                 <div className="flex items-center py-4"><LiaCertificateSolid className='text-orange-500 text-[50px] pr-2' />Incoterms, H.S Code, Insurance and LC Management in International Business</div>
                             </div>
                         </div>
-                        <div className="w-[48%] bg-gray-300 py-[50px] rounded drop-shadow-2xl ...">
+                        <div className="w-full lg:w-[48%] bg-gray-300 py-[50px] rounded drop-shadow-2xl">
                             <h4 className='text-[25px] text-sky-800 font-bold pl-[30px] uppercase'>Evening Courses</h4>
                             <div className="pt-[30px] px-[30px]">
                                 <div className="flex items-center"><FaSchool className='text-green-950 text-[50px] pr-2' />Incoterms, H.S Code, Insurance and LC Management in International Business</div>
@@ -47,4 +47,4 @@ const Career = () => {
     )
 }
 
-export default Career
+export default Career;
