@@ -4,6 +4,7 @@ import Category from '../components/Category'
 import Hotjobs from '../components/Hotjobs'
 import Tender from '../components/Tender'
 import Download from '../components/Download'
+import Career from '../components/Career'
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <Hotjobs />
             <Tender />
             <Download />
+            <Career />
         </>
     )
 }
